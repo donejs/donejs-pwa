@@ -5,6 +5,8 @@
 
 Turn your DoneJS app into a Progressive Web App
 
+** Not ready for use **
+
 ## Using the generator
 
 To add this generator to your DoneJS application, run
