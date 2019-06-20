@@ -1,7 +1,7 @@
 # donejs-pwa
 
 [![Build Status](https://travis-ci.org/donejs/donejs-pwa.svg?branch=master)](https://travis-ci.org/donejs/donejs-pwa)
-[![npm version](https://badge.fury.io/js/donejs-pwa.svg)](http://badge.fury.io/js/donejs-pwa)
+[![npm version](https://badge.fury.io/js/donejs-pwa.svg)](http://badge.fury.io/js/donejs-pwa) [![Greenkeeper badge](https://badges.greenkeeper.io/donejs/donejs-pwa.svg)](https://greenkeeper.io/)
 
 Turn your DoneJS app into a Progressive Web App
 
